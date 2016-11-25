@@ -1,0 +1,9 @@
+Count map: 2
+Fuel: 1
+Cost: 8
+Name: Lookoil
+Amount: 88
+Fuel: 2
+Cost: 4
+Name: 97
+Amount: 6

@@ -1,0 +1,3 @@
+Count map: 1
+Vendor: 1
+Name: Серега

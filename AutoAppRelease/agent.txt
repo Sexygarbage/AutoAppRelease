@@ -1,0 +1,3 @@
+Count map: 1
+Agent: 1
+Name: Lookoil-агент
